@@ -2,9 +2,8 @@ name: Auto Daily GitHub Trending
 
 on:
   schedule:
-    # 每天北京时间早上 8:30 自动触发 (国际标准时 00:30)
     - cron: '30 0 * * *'
-  workflow_dispatch: # 允许你随时在 GitHub 网页上点击按钮手动触发
+  workflow_dispatch:
 
 jobs:
   build-and-push:
@@ -31,6 +30,5 @@ jobs:
         git config --global user.name "GitHub Action Bot"
         git config --global user.email "actions@github.com"
         git add README.md
-        # 检查是否有内容修改，防止没有更新时报错中断
         git diff-index --quiet HEAD || git commit -m "📝 Auto Update: GitHub Trending ($(date +'%Y-%m-%d'))"
-        git push.
+        git push
