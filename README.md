@@ -1,7 +1,7 @@
 # 🚀 GitHub 双维度技术日报
 
 > 💡 **技术博主每日报**：全自动追踪 GitHub 全球趋势与历史巅峰，助你一眼看穿“谁当下最火”与“谁历史最强”。
-> 📅 **更新时间**：2026-07-09 (🤖 系统全自动无人值守更新 - 包含 AI 自动翻译)
+> 📅 **更新时间**：2026-07-10 (🤖 系统全自动无人值守更新 - 包含 AI 自动翻译)
 
 ---
 
@@ -10,16 +10,16 @@
 
 | 排名 | 项目名称与链接 | 主要语言 | 今日增长 | 项目简介 (中/英) |
 | :---: | :--- | :---: | :---: | :--- |
-| **1** | [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | `JavaScript` | 🔥 1,297 stars today | **AI 编码代理的生产级工程技能。** <br><sub style='color:gray'>Production-grade engineering skills for AI coding agents.</sub> |
-| **2** | [ruvnet/RuView](https://github.com/ruvnet/RuView) | `Rust` | 🔥 799 stars today | **π RuView 将商用 WiFi 信号转化为实时空间智能、生命体征监测和存在检测 - 所有这些都无需视频像素。** <br><sub style='color:gray'>π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.</sub> |
-| **3** | [TencentCloud/TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory) | `TypeScript` | 🔥 318 stars today | **腾讯数据库代理内存通过 4 层渐进式管道为 AI 代理提供完全本地的长期内存，且外部 API 依赖性为零。** <br><sub style='color:gray'>TencentDB Agent Memory delivers fully local long-term memory for AI Agents via a 4-tier progressive pipeline, with zero external API dependencies.</sub> |
-| **4** | [prisma/prisma](https://github.com/prisma/prisma) | `TypeScript` | 🔥 46 stars today | **Node.js 和 TypeScript 的下一代 ORM | PostgreSQL、MySQL、MariaDB、SQL Server、SQLite、MongoDB 和 CockroachDB** <br><sub style='color:gray'>Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB</sub> |
-| **5** | [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | `Python` | 🔥 352 stars today | **AI 代理技能可研究 Reddit、X、YouTube、HN、Polymarket 和网络上的任何主题，然后综合得出有依据的摘要** <br><sub style='color:gray'>AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary</sub> |
-| **6** | [argoproj/argo-cd](https://github.com/argoproj/argo-cd) | `Go` | 🔥 29 stars today | **Kubernetes 声明式持续部署** <br><sub style='color:gray'>Declarative Continuous Deployment for Kubernetes</sub> |
-| **7** | [iOfficeAI/OfficeCLI](https://github.com/iOfficeAI/OfficeCLI) | `C#` | 🔥 1,717 stars today | **OfficeCLI 是第一个也是最好的 Office 套件，专为 AI 代理构建，用于读取、编辑和自动化 Word、Excel 和 PowerPoint 文件。免费、开源、单一二进制文件，无需安装 Office。** <br><sub style='color:gray'>OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.</sub> |
-| **8** | [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) | `JavaScript` | 🔥 1,218 stars today | **从 Anthropic 中提取的系统提示 - Claude Fable 5、Opus 4.8、Claude Code、Claude Design。 OpenAI - ChatGPT 5.5 思维、GPT 5.5 即时、Codex。 Google - Gemini 3.5 Flash、3.1 Pro、反重力。 xAI - Grok、Cursor、Copilot、VS Code、Perplexity 等。定期更新。** <br><sub style='color:gray'>Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.</sub> |
-| **9** | [obra/superpowers](https://github.com/obra/superpowers) | `Shell` | 🔥 1,116 stars today | **有效的代理技能框架和软件开发方法。** <br><sub style='color:gray'>An agentic skills framework & software development methodology that works.</sub> |
-| **10** | [alibaba/zvec](https://github.com/alibaba/zvec) | `C++` | 🔥 395 stars today | **轻量级、快如闪电的进程内矢量数据库** <br><sub style='color:gray'>A lightweight, lightning-fast, in-process vector database</sub> |
+| **1** | [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) | `TypeScript` | 🔥 3,716 stars today | **基于 Claude Code 构建的人工智能驱动的职位申请框架。叉开它，填写你的个人资料，让克劳德评估工作，定制简历，写求职信，并为你的面试做好准备。** <br><sub style='color:gray'>AI-powered job application framework built on Claude Code. Fork it, fill in your profile, and let Claude evaluate jobs, tailor CVs, write cover letters, and prepare you for interviews.</sub> |
+| **2** | [SmartlyDressedGames/U3-SDK](https://github.com/SmartlyDressedGames/U3-SDK) | `C#` | 🔥 524 stars today | **Unturned 的源代码，一款免费的开放世界僵尸生存沙盒游戏。** <br><sub style='color:gray'>Source code for Unturned, a free open-world zombie survival sandbox game.</sub> |
+| **3** | [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | `JavaScript` | 🔥 2,554 stars today | **AI 编码代理的生产级工程技能。** <br><sub style='color:gray'>Production-grade engineering skills for AI coding agents.</sub> |
+| **4** | [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md) | `Markdown/Other` | 🔥 1,391 stars today | **流行品牌设计系统的 DESIGN.md 文件分析集合。将一个项目放入您的项目中，让编码代理生成匹配的 UI。** <br><sub style='color:gray'>A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your project and let coding agents generate a matching UI.</sub> |
+| **5** | [iOfficeAI/OfficeCLI](https://github.com/iOfficeAI/OfficeCLI) | `C#` | 🔥 1,929 stars today | **OfficeCLI 是第一个也是最好的 Office 套件，专为 AI 代理构建，用于读取、编辑和自动化 Word、Excel 和 PowerPoint 文件。免费、开源、单一二进制文件，无需安装 Office。** <br><sub style='color:gray'>OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.</sub> |
+| **6** | [wonderwhy-er/DesktopCommanderMCP](https://github.com/wonderwhy-er/DesktopCommanderMCP) | `TypeScript` | 🔥 185 stars today | **这是 Claude 的 MCP 服务器，为其提供终端控制、文件系统搜索和 diff 文件编辑功能** <br><sub style='color:gray'>This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities</sub> |
+| **7** | [anthropics/claude-cookbooks](https://github.com/anthropics/claude-cookbooks) | `Jupyter Notebook` | 🔥 194 stars today | **一系列笔记本/食谱展示了一些有趣且有效的使用克劳德的方法。** <br><sub style='color:gray'>A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.</sub> |
+| **8** | [vxcontrol/pentagi](https://github.com/vxcontrol/pentagi) | `Go` | 🔥 535 stars today | **完全自主的人工智能代理系统能够执行复杂的渗透测试任务** <br><sub style='color:gray'>Fully autonomous AI Agents system capable of performing complex penetration testing tasks</sub> |
+| **9** | [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) | `Python` | 🔥 215 stars today | **🚀🤖 Crawl4AI：开源 LLM 友好的网络爬虫和爬虫。不要害羞，加入这里：https://discord.gg/jP8KfhDhyN** <br><sub style='color:gray'>🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN</sub> |
+| **10** | [imthenachoman/How-To-Secure-A-Linux-Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server) | `Markdown/Other` | 🔥 243 stars today | **不断发展的保护 Linux 服务器的操作指南。** <br><sub style='color:gray'>An evolving how-to guide for securing a Linux server.</sub> |
 
 ---
 
@@ -28,16 +28,16 @@
 
 | 排名 | 项目名称与链接 | 主要语言 | 历史总星数 | 项目简介 (中/英) |
 | :---: | :--- | :---: | :---: | :--- |
-| **1** | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | `Markdown` | ⭐ **523.6k** | **通过从头开始重新创建您最喜欢的技术来掌握编程。** <br><sub style='color:gray'>Master programming by recreating your favorite technologies from scratch.</sub> |
-| **2** | [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) | `TypeScript` | ⭐ **451.3k** | **freeCodeCamp.org 的开源代码库和课程。免费学习数学、编程和计算机科学。** <br><sub style='color:gray'>freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.</sub> |
-| **3** | [public-apis/public-apis](https://github.com/public-apis/public-apis) | `Python` | ⭐ **448.1k** | **免费 API 集合列表** <br><sub style='color:gray'>A collective list of free APIs</sub> |
-| **4** | [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) | `Python` | ⭐ **391.5k** | **：书籍：免费提供的编程书籍** <br><sub style='color:gray'>:books: Freely available programming books</sub> |
-| **5** | [openclaw/openclaw](https://github.com/openclaw/openclaw) | `TypeScript` | ⭐ **382.2k** | **您自己的私人人工智能助理。任何操作系统。任何平台。龙虾方式。 🦞** <br><sub style='color:gray'>Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 </sub> |
-| **6** | [nilbuild/developer-roadmap](https://github.com/nilbuild/developer-roadmap) | `TypeScript` | ⭐ **359.7k** | **交互式路线图、指南和其他教育内容可帮助开发人员在职业生涯中成长。** <br><sub style='color:gray'>Interactive roadmaps, guides and other educational content to help developers grow in their careers.</sub> |
-| **7** | [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) | `Python` | ⭐ **356.8k** | **了解如何设计大型系统。准备系统设计面试。  包括 Anki 抽认卡。** <br><sub style='color:gray'>Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.</sub> |
-| **8** | [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) | `Markdown/Other` | ⭐ **355.5k** | **成为软件工程师的完整计算机科学研究计划。** <br><sub style='color:gray'>A complete computer science study plan to become a software engineer.</sub> |
-| **9** | [vinta/awesome-python](https://github.com/vinta/awesome-python) | `Python` | ⭐ **307.1k** | **Python 框架、库、工具和资源的固定列表** <br><sub style='color:gray'>An opinionated list of Python frameworks, libraries, tools, and resources</sub> |
-| **10** | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | `Markdown/Other` | ⭐ **304.0k** | **可以在您自己的服务器上托管的自由软件网络服务和 Web 应用程序的列表** <br><sub style='color:gray'>A list of Free Software network services and web applications which can be hosted on your own servers</sub> |
+| **1** | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | `Markdown` | ⭐ **523.9k** | **通过从头开始重新创建您最喜欢的技术来掌握编程。** <br><sub style='color:gray'>Master programming by recreating your favorite technologies from scratch.</sub> |
+| **2** | [sindresorhus/awesome](https://github.com/sindresorhus/awesome) | `Markdown/Other` | ⭐ **483.5k** | **😎 关于各种有趣主题的精彩列表** <br><sub style='color:gray'>😎 Awesome lists about all kinds of interesting topics</sub> |
+| **3** | [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) | `TypeScript` | ⭐ **451.4k** | **freeCodeCamp.org 的开源代码库和课程。免费学习数学、编程和计算机科学。** <br><sub style='color:gray'>freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.</sub> |
+| **4** | [public-apis/public-apis](https://github.com/public-apis/public-apis) | `Python` | ⭐ **448.4k** | **免费 API 集合列表** <br><sub style='color:gray'>A collective list of free APIs</sub> |
+| **5** | [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) | `Python` | ⭐ **391.5k** | **：书籍：免费提供的编程书籍** <br><sub style='color:gray'>:books: Freely available programming books</sub> |
+| **6** | [openclaw/openclaw](https://github.com/openclaw/openclaw) | `TypeScript` | ⭐ **382.4k** | **您自己的私人人工智能助理。任何操作系统。任何平台。龙虾方式。 🦞** <br><sub style='color:gray'>Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 </sub> |
+| **7** | [nilbuild/developer-roadmap](https://github.com/nilbuild/developer-roadmap) | `TypeScript` | ⭐ **360.0k** | **交互式路线图、指南和其他教育内容可帮助开发人员在职业生涯中成长。** <br><sub style='color:gray'>Interactive roadmaps, guides and other educational content to help developers grow in their careers.</sub> |
+| **8** | [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) | `Python` | ⭐ **356.9k** | **了解如何设计大型系统。准备系统设计面试。  包括 Anki 抽认卡。** <br><sub style='color:gray'>Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.</sub> |
+| **9** | [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) | `Markdown/Other` | ⭐ **355.7k** | **成为软件工程师的完整计算机科学研究计划。** <br><sub style='color:gray'>A complete computer science study plan to become a software engineer.</sub> |
+| **10** | [vinta/awesome-python](https://github.com/vinta/awesome-python) | `Python` | ⭐ **307.3k** | **Python 框架、库、工具和资源的固定列表** <br><sub style='color:gray'>An opinionated list of Python frameworks, libraries, tools, and resources</sub> |
 
 ---
 
